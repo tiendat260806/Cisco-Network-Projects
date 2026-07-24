@@ -40,3 +40,5 @@
 - `Network.pkt`: File Packet Tracer.
 - `Topology.png`: Sơ đồ mạng.
 - `Screenshots/`: Ảnh cấu hình và kết quả kiểm tra.
+
+Tác giả: Tiến Đạt
